@@ -1,0 +1,8 @@
+name: CrudCar
+description: >-
+  Have you been used sqlite?
+version: 1.0.1
+environment:
+  sdk: '^3.0.0'
+dev_dependencies:
+  sqflite_common_ffi:
